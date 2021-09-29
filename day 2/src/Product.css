@@ -1,0 +1,23 @@
+h4 {
+  text-align: center;
+  text-decoration: dotted;
+  color: rgb(100, 96, 95);
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(24, 129, 15);
+  text-align: center;
+}
+.product {
+  margin-left: 43%;
+  width: 200px;
+  height: 80px;
+  padding: 15px;
+  background-color: yellow;
+}
+.product:hover {
+  box-shadow: 10px 10px;
+  cursor: pointer;
+}
