@@ -1,2 +1,2 @@
 # Reactjs-assignment
-assignment for LetsUpgrad Reactjs class
+assignment for LetsUpgrade Reactjs class
